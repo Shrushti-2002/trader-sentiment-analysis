@@ -1,0 +1,6 @@
+Project Summary
+This project analyzed the relationship between market sentiment and trader behavior using Hyperliquid trading data and the Fear & Greed Index. 
+Results show that trader performance improves during Greed phases, while Fear periods are associated with lower average PnL and higher volatility. 
+Behavioral analysis indicates increased trading activity and risk-taking during positive sentiment, and more defensive positioning during Fear. 
+Segment-level insights reveal that high-variance traders are more negatively impacted during Fear regimes. 
+These findings suggest that sentiment-aware risk controls and trader segmentation can materially improve trading outcomes.
